@@ -7,7 +7,7 @@ Currently learning C language and want to get good command over it.*
 ***Interests:***
 - I have interest in progmramming.
 - I like cricket also.
-# 
+
 | S.No  | Marks%(10th) | Marks%(12th)|B.tech(sem1 sgpa)|
 |---------|-----|----------|----------|
 |1 |90|85 |9.65|
