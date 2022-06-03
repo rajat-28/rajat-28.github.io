@@ -11,4 +11,6 @@ Currently learning C language and want to get good command over it.*
 | S.No  | Marks%(10th) | Marks%(12th)|B.tech(sem1 sgpa)|
 |---------|-----|----------|----------|
 |1 |90|85 |9.65|
-
+---
+***Here's an e-certificate designed by me:***
+![Screenshot (36)](https://user-images.githubusercontent.com/106760085/171922252-c906e359-720b-4e5a-939e-c51fad6cf880.png)
