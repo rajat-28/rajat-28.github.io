@@ -1,3 +1,4 @@
+<Title>Rajat</title>
 # Welcome To Rajat's Website
 # My First Website
 # About:
