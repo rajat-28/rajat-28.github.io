@@ -13,7 +13,8 @@ Currently learning C language ,I have also completed NPTEL course on 'C' with el
 |---------|-----|----------|----------|
 |1 |90|85 |9.65|
 
+https://rajat-28.github.io/shubham/
 [Shubham](https://rajat-28.github.io/shubham/) 
 
 # ***Here's an e-certificate designed by me:***
-![Screenshot (36)](https://user-images.githubusercontent.com/106760085/171922252-c906e359-720b-4e5a-939e-c51fad6cf880.png)Format:![Certificate]
+![Screenshot (36)](https://user-images.githubusercontent.com/106760085/171922252-c906e359-720b-4e5a-939e-c51fad6cf880.png)
