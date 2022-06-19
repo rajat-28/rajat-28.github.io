@@ -15,6 +15,9 @@ Currently learning C language ,I have also completed NPTEL course on 'C' with el
 
 https://rajat-28.github.io/shubham/    
 [Shubham](https://rajat-28.github.io/shubham/) 
+- [ ] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
 
 # ***Here's an e-certificate designed by me:***
 ![Screenshot (36)](https://user-images.githubusercontent.com/106760085/171922252-c906e359-720b-4e5a-939e-c51fad6cf880.png)
