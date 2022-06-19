@@ -20,4 +20,4 @@ https://rajat-28.github.io/shubham/
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
 # ***Here's an e-certificate designed by me:***
-[![Screenshot (36)](https://user-images.githubusercontent.com/106760085/171922252-c906e359-720b-4e5a-939e-c51fad6cf880.png)](www.google.com)
+[![](https://user-images.githubusercontent.com/106760085/171922252-c906e359-720b-4e5a-939e-c51fad6cf880.png)](https://rajat-28.github.io/shubham/)
