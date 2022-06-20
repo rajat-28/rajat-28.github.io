@@ -11,6 +11,7 @@ Currently learning C language ,I have also completed NPTEL course on 'C' with el
 
 | S.No  | Marks%(10th) | Marks%(12th)|B.tech(sem1 sgpa)|  
 |---------|-----|----------|----------|
+|1 |90|85 |9.65|
 
 
 https://rajat-28.github.io/shubham/    
