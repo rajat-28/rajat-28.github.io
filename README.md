@@ -9,7 +9,7 @@ Currently learning C language ,I have also completed NPTEL course on 'C' with el
 - I have interest in progmramming.
 - I like cricket also.
 
-| S.No  | Marks%(10th) | Marks%(12th)|B.tech(sem1 sgpa)|  
+| S.No  | [Marks](https://www.google.com) | Marks%(12th)|B.tech(sem1 sgpa)|  
 |---------|-----|----------|----------|
 |1 |90|85 |9.65|
 
